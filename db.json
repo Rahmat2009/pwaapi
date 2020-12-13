@@ -1,0 +1,24 @@
+{
+"product":[
+{"id":1,"name":"Caracal","category":"Khaki"},
+{"id":2,"name":"Indian mynah","category":"Turquoise"},
+{"id":3,"name":"Vulture, bengal","category":"Yellow"},
+{"id":4,"name":"Tenrec, tailless","category":"Fuscia"},
+{"id":5,"name":"Squirrel, pine","category":"Maroon"},
+{"id":6,"name":"Australian brush turkey","category":"Orange"},
+{"id":7,"name":"Peccary, collared","category":"Yellow"},
+{"id":8,"name":"Mongoose, small indian","category":"Violet"},
+{"id":9,"name":"Gonolek, burchell's","category":"Red"},
+{"id":10,"name":"Openbill, asian","category":"Purple"},
+{"id":11,"name":"Goliath heron","category":"Fuscia"},
+{"id":12,"name":"Blue wildebeest","category":"Teal"},
+{"id":13,"name":"Baboon, yellow","category":"Green"},
+{"id":14,"name":"Vine snake (unidentified)","category":"Pink"},
+{"id":15,"name":"Phalarope, red","category":"Blue"},
+{"id":16,"name":"Deer, red","category":"Khaki"},
+{"id":17,"name":"White-eye, pale","category":"Mauv"},
+{"id":18,"name":"White-necked stork","category":"Goldenrod"},
+{"id":19,"name":"Spotted wood sandpiper","category":"Green"},
+{"id":20,"name":"Bat, asian false vampire","category":"Green"}
+]
+}
